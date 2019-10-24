@@ -6,7 +6,8 @@ Simple video processing scripts for swapping temporal and spatial dimensions.
 
 See in-scripts comments for usage details.
 
-(Video link will be added later.)
+Demo video:
+https://youtu.be/a00d8GMqd4g
 
 Sample shots:
 
